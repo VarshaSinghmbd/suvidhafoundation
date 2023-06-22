@@ -1,4 +1,4 @@
-![logo](https://zabeelinstitute.ae/wp-content/uploads/2021/07/3-300x174.jpg)
+
 <h1 align="center">Hi 👋, I'm Varsha Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.ytimg.com/vi/qyff1OBDKpI/maxresdefault.jpg"
